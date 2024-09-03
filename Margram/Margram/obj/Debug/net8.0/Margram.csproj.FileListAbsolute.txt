@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Margram\Margram\bin\Debug\net8.0\Margram.exe
+C:\Users\pc\source\repos\Margram\Margram\bin\Debug\net8.0\Margram.deps.json
+C:\Users\pc\source\repos\Margram\Margram\bin\Debug\net8.0\Margram.runtimeconfig.json
+C:\Users\pc\source\repos\Margram\Margram\bin\Debug\net8.0\Margram.dll
+C:\Users\pc\source\repos\Margram\Margram\bin\Debug\net8.0\Margram.pdb
+C:\Users\pc\source\repos\Margram\Margram\obj\Debug\net8.0\Margram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Margram\Margram\obj\Debug\net8.0\Margram.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Margram\Margram\obj\Debug\net8.0\Margram.AssemblyInfo.cs
+C:\Users\pc\source\repos\Margram\Margram\obj\Debug\net8.0\Margram.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Margram\Margram\obj\Debug\net8.0\Margram.dll
+C:\Users\pc\source\repos\Margram\Margram\obj\Debug\net8.0\refint\Margram.dll
+C:\Users\pc\source\repos\Margram\Margram\obj\Debug\net8.0\Margram.pdb
+C:\Users\pc\source\repos\Margram\Margram\obj\Debug\net8.0\Margram.genruntimeconfig.cache
+C:\Users\pc\source\repos\Margram\Margram\obj\Debug\net8.0\ref\Margram.dll
