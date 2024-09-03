@@ -44,7 +44,6 @@ namespace LanChat
             // Start sending messages
             while (true)
             {
-                Console.Write(userName + ":");
                 string message = Console.ReadLine();
                 if (isServer)
                 {
